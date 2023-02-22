@@ -1,0 +1,51 @@
+/*--------------------------------------------------------------
+# 
+--------------------------------------------------------------*/
+.user-page {
+    row-gap: 30px;
+}
+
+.user-card{
+    background-color: rgb(12, 12, 94);
+}
+
+.user-profile{
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.user-profile img{
+    width: 150%;
+}
+
+.card-detail{
+    color: white;
+}
+
+.card-detail a{
+    text-decoration: none;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.user-detail p{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.detail-img{
+    height: 200px;
+    width: 200px;
+    border: 7px solid red;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.detail-img img{
+    height: 100%;
+}
